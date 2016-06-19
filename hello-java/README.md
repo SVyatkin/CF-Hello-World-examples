@@ -4,7 +4,7 @@ hello-java
 Example Predix.io Java application.
 
 - git clone 
-- $ cd predix-hello-world-examples/hello-java
+- $ cd CF-Hello-World-examples/hello-java
 - $ mvn clean package
 - $ cf push 
 - $ curl https://predix-hello-java.run.aws-usw02-pr.ice.predix.io  returns "Java Predix.io - Hello World Example"
