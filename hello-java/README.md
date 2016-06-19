@@ -3,7 +3,7 @@ hello-java
 
 Example Predix.io Java application.
 
-- git clone https://github.build.ge.com/PredixSolutions/hello-java.git
+- git clone 
 - $ cd predix-hello-world-examples/hello-java
 - $ mvn clean package
 - $ cf push 
