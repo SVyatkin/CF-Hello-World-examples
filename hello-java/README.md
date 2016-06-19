@@ -7,7 +7,7 @@ Example Predix.io Java application.
 - $ cd predix-hello-world-examples/hello-java
 - $ mvn clean package
 - $ cf push 
-- $ curl predix-hello-java.run.aws-usw02-pr.ice.predix.io  returns "Java Predix.io - Hello World Example"
+- $ curl https://predix-hello-java.run.aws-usw02-pr.ice.predix.io  returns "Java Predix.io - Hello World Example"
 
 #### Developer notes:
 
