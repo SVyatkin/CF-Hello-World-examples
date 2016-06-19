@@ -3,7 +3,7 @@ hello-scala
 
 Example Predix.io Scala application.
 
-- $ git clone https://github.build.ge.com/PredixSolutions/hello-scala.git
+- $ git clone 
 - install sbt using `$ brew install sbt`
 - $ cd predix-hello-world-examples/hello-scala
 - $ sbt clean package
