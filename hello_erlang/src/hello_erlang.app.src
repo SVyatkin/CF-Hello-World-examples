@@ -1,0 +1,13 @@
+{application, hello_erlang,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  cowboy
+                 ]},
+  {mod, { hello_erlang_app, []}},
+  {env, [{http_port, 80}]}
+ ]}.

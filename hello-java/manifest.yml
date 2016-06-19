@@ -1,0 +1,6 @@
+---
+applications:
+  - name: predix-hello-java
+    buildpack: java_buildpack
+    path: target/predix-hello-java-1.0.0.jar
+
