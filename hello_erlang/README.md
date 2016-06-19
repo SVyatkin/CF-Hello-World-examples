@@ -3,7 +3,7 @@ hello-erlang
 
 Example Predix.io erlang application. It is failed to work for me in Predix.io
 
-- git clone curl hello-scala.run.aws-usw02-pr.ice.predix.io/php-scala.git
+- git clone 
 - $ cd predix-hello-world-examples/hello_erlang
 - $ cf push hello_erlang -b https://github.com/spiegela/cf-buildpack-erlang
 ``` 
