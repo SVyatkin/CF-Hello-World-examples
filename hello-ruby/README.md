@@ -3,7 +3,7 @@ hello-ruby
 
 Example Predix.io ruby application.
 
-- git clone https://github.build.ge.com/PredixSolutions/hello-ruby.git
+- git clone 
 - if you do not have it, please, install
 
 ``` 
