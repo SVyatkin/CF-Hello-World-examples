@@ -4,7 +4,7 @@ hello-erlang
 Example Predix.io erlang application. It is failed to work for me in Predix.io
 
 - git clone 
-- $ cd predix-hello-world-examples/hello_erlang
+- $ cd CF-Hello-World-examples/hello_erlang
 - $ cf push hello_erlang -b https://github.com/spiegela/cf-buildpack-erlang
 ``` 
 Creating app hello_erlang in org sergey.vyatkin@ge.com / space dev as sergey.vyatkin@ge.com...
