@@ -1,11 +1,9 @@
-hello-html
+hello-unity
 ===========
 
-Example Predix.io static application.
+Example Predix.io Unity WebGL application.
 
 - git clone
-- $ cd CF-Hello-World-examples/hello-html
-- $ cf push -m 128M -b predix_openresty_buildpack html-hello
-- $ curl https://html-hello.run.aws-usw02-pr.ice.predix.io  returns "HTML Predix.io - Hello World Example"
-
-
+- $ cd CF-Hello-World-examples/hello-unity
+- $ cf push -b predix_openresty_buildpack unity-hello
+- $ run in browser https://unity-hello.run.aws-usw02-pr.ice.predix.io 
