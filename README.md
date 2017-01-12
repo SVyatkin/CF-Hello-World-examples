@@ -6,7 +6,7 @@
 - [PHP] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-php)
 - [Go] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-go)
 - [Python] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-python)
-- [Ruby] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/master/hello-ruby) 
+- [Ruby] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-ruby) 
 - [Scala] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-scala)
 - [MatLab] (https://www.predix.io/docs#zwCROx4n)
 - [Erlang - Failed] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello_erlang)
