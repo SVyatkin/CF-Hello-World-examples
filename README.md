@@ -1,18 +1,17 @@
 # cf-hello-world-examples
 
-- [Predix Insights](https://www.predix.io/services/service.html?id=2506)
-- [HTML] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-html)
-- [Angular] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-angular)
-- [Java] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-java)
-- [PHP] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-php)
-- [Go] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-go)
-- [Python] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-python)
-- [Ruby] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-ruby) 
-- [Scala] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-scala)
-- [Unity] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-unity)
-- [Unity-Ribbon] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/unity-ribbon)
-- [MatLab] (https://www.predix.io/docs#zwCROx4n)
-- [Erlang - Failed] (https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello_erlang)
+- [HTML](https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-html)
+- [Angular](https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-angular)
+- [Java](https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-java)
+- [PHP](https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-php)
+- [Go](https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-go)
+- [Python](https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-python)
+- [Ruby](https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-ruby) 
+- [Scala](https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-scala)
+- [Unity](https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello-unity)
+- [Unity-Ribbon](https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/unity-ribbon)
+- [MatLab](https://www.predix.io/docs#zwCROx4n)
+- [Erlang - Failed](https://github.com/SVyatkin/CF-Hello-World-examples/tree/master/hello_erlang)
 
 
 ### Developer notes
