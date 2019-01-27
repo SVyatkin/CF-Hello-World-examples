@@ -1,2 +1,4 @@
-<?php print(“PHP Predix.io - Hello World Example"); ?>
+﻿<?php
+  phpinfo();
+?>
 
